@@ -8,28 +8,16 @@ export type UserData = {
     
   };
 export type exp = {
-    id: string;
-    name: string;
-    instagramID: string;
-    twitterID: string;
-    linkedInID: string;
-    profilePic: string;
-    jobRole: string;
-    pronouns: string;
-    bio: string;
+    timeline: string;
+    title: string;
+    description: string;
     
   };
   
 export type achievements = {
-    id: string;
-    name: string;
-    instagramID: string;
-    twitterID: string;
-    linkedInID: string;
-    profilePic: string;
-    jobRole: string;
-    pronouns: string;
-    bio: string;
+    time: string;
+    title: string;
+    description: string;
     
   };
 export type contact = {
