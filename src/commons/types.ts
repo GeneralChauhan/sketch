@@ -1,29 +1,28 @@
 export type UserData = {
-    id: string;
-    name: string;
-    profilePic: string;
-    jobRole: string;
-    pronouns: string;
-    bio: string;
-    
-  };
-export type exp = {
+  id: string;
+  name: string;
+  profilePic: string;
+  jobRole: string;
+  pronouns: string;
+  bio: string;
+
+  exp: {
     timeline: string;
     title: string;
     description: string;
-    
   };
-  
-export type achievements = {
+
+  achievements: {
     time: string;
     title: string;
     description: string;
-    
   };
-export type contact = {
+  
+  contact: {
     instagramID: string;
     twitterID: string;
     linkedInID: string;
     githubID: string;
-    email: string;    
+    email: string;
   };
+};
