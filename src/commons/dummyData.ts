@@ -7,7 +7,7 @@ const dummyUserData: UserData = {
     profilePic: "https://example.com/john-doe-profile.jpg",
     jobRole: "Software Engineer",
     pronouns: "he/him",
-    bio: "Passionate about coding and building cool things with technology.",
+    bio: "Almost Full-Stack Developer, I like to develop things in the modern and unique way. Design - that's my favorite part of any project , I gained a lot of experience design by my own projects and also working for some startups. Idk but I am comfortable with all the tech stacks. So it makes a Full-Stack Developer Ultra Pro Max.",
   
     exp: {
       timeline: "2018 - Present",
